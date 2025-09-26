@@ -24,13 +24,13 @@ Slides I showed:
 
 Example repos that have testing and website rendering set up:
 
-- IRSA Tutorials: 
+- IRSA Tutorials (It has just been upgraded to use JB2): 
   - https://github.com/Caltech-IPAC/irsa-tutorials/
   - https://caltech-ipac.github.io/irsa-tutorials/
          
-- Numpy Tutorials: https://github.com/numpy/numpy-tutorials
+- Numpy Tutorials (Still JB1, but we are switching it later this autumn): https://github.com/numpy/numpy-tutorials
 
-And docs only repos, using the same JB infrastructure, in my opinion this is a very easy way to maintain websites:
+And docs only repos, using the same JB2 infrastructure, in my opinion this is a very easy way to maintain websites, lot of accessibility and other features is there out of the box:
 
 - SPHEREx archive documentation: 
   - https://github.com/Caltech-IPAC/spherex-archive-documentation
